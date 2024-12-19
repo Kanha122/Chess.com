@@ -1,0 +1,13 @@
+emit ==> ye hota h bhene ke liye
+on ==> ye hota h revcied krne ke liye
+
+for backened
+// uniqueSocket.on("disconnect", function(){
+//     console.log("disconnected");
+
+// });
+
+// uniqueSocket.on("churan", function(){
+//     io.emit("group message"); //group mai jaayga
+// });
+
